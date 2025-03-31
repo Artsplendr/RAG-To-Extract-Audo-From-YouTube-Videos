@@ -7,7 +7,7 @@ It forms the foundation for a multimodal RAG system for including visual content
 
 ### Goals
 
-- Enable semantic search and Q&A over YouTube video content
+- Enable semantic search and Q&A over YouTube video content (audio-based)
 
 - Use state-of-the-art transcription (Whisper) and LLMs (GPT-4)
 
