@@ -23,4 +23,4 @@ It forms the foundation for a multimodal RAG system for including visual content
 
 - yt-dlp: For downloading audio from YouTube
 
-#### If you find this repository useful, drop it the star ⭐:)! 
+#### If you find this repository useful, drop it a star ⭐:)! 
